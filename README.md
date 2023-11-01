@@ -30,3 +30,5 @@ Step2：
 Step3：
 最後接上
 
+![圖片1](https://github.com/CiouQQ/AIOT_Final/assets/74865648/fca5fb21-cef1-4110-b7a4-48e27f9c1707)
+
