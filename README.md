@@ -18,14 +18,14 @@ Step0：環境建置
 
 
 Step1：
-使用train來進行訓練
+使用train.ipynb來進行訓練
 需要準備兩項 1. label.text 2.圖片檔(圖片檔解析度需一致)
 ![image](https://user-images.githubusercontent.com/74865648/210959000-5b89a993-bdec-4371-98e7-66ca7dba9ebb.png)
 ![image](https://user-images.githubusercontent.com/74865648/210959034-57e37640-1e87-4b05-8baf-cc9f324df90e.png)
 接著會存在mnist_knn.xml
 
 Step2：
-接著可以用鏡頭做測試(test)
+接著可以用鏡頭做測試(test.ipynb)
 
 Step3：
 最後接上
